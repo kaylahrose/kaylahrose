@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Elixir.
+- 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about data privacy.
 - 📫 How to reach me: kaylahrosem@gmail.com
