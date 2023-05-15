@@ -15,6 +15,6 @@
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose&layout=compact&hide=css,html&title_color=73f4ff&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose&hide_progress=true&hide=css,html&title_color=73f4ff&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true&langs_count=8)
 
 ![Kaylah Rose's github stats](https://github-readme-stats.vercel.app/api?username=kaylahrose&count_private=true&show_icons=true&hide=stars&count_private=true&title_color=73f4ff&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true)
