@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m a software engingeer profficient in Ruby on Rails.
-- 📚 I'm currently cross learning Python and PHP.
+- 📚 I'm currently cross learning React.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about data privacy.
 - 📫 How to reach me: kaylahrosem@gmail.com
