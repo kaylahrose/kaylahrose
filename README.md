@@ -1,4 +1,4 @@
-# Hello, I'm Kaylah Rose 👋🏽
+<h1 align="center">👋🏽 Hi, I'm Kaylah Rose!</h1>
 
 
 
