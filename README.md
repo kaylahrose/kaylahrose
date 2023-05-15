@@ -17,7 +17,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose&hide_progress=true&title_color=ff7d5a&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true&langs_count=8"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose&hide_progress=true&title_color=e10198&bg_color=000000&text_color=ff7fd4&icon_color=c590eb&hide_border=true&langs_count=8"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -32,11 +32,11 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true&title_color=ff7d5a&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true&langs_count=8"
+  srcset="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true&title_color=e10198&bg_color=000000&text_color=ff7fd4&icon_color=c590eb&hide_border=true&langs_count=8"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true&bg_color=ffa9cb&text_color=7c2ae8&title_color=ff16a5&icon_color=ff4c1b&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true&bg_color=ffa9cb&text_color=7c2ae8&title_color=ff9f85&icon_color=ff4c1b&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true" />
