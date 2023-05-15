@@ -15,6 +15,30 @@
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose&hide_progress=true&hide=css,html&title_color=ff7d5a&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true&langs_count=8)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose&hide_progress=true&title_color=ff7d5a&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true&langs_count=8"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose&show_icons=true&langs_count=8&hide_progress=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose" />
+</picture>
 
-![Kaylah Rose's github stats](https://github-readme-stats.vercel.app/api?username=kaylahrose&count_private=true&show_icons=true&hide=stars&count_private=true&title_color=ff7d5a&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true)
+<br />
+
+
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true&title_color=ff7d5a&bg_color=e10198&text_color=42086b&icon_color=c590eb&hide_border=true&langs_count=8"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=kaylahrose&show_icons=true" />
+</picture>
+
