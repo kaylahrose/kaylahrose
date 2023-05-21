@@ -39,7 +39,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylahrose" />
 </picture>
 
-
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={kaylahrose}&theme=radical&hide_border=true" />
 
