@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m a software engingeer at AdaMarie.
+- 🌱 I’m a software engingeer at [AdaMarie](https://weareadamarie.com/).
 - 📚 I'm currently cross learning React.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about data privacy.
