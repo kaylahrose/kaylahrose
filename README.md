@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m a software engingeer at [AdaMarie](https://weareadamarie.com/).
-- 📚 I'm currently cross learning Applicaation Security.
+- 📚 I'm currently cross learning Application Security.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about data privacy.
 - 📫 How to reach me: kaylahrosem@gmail.com
